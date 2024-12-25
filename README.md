@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshivam125&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshivam125" /> </p>
 
 - 💬 Ask me about **DSA and DEV**
-
+- Solved **600+ DSA Questions** on GFG and LeetCode
 - 📫 How to reach me **shivam125156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
